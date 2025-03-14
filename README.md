@@ -1,12 +1,8 @@
 Hi 👋 My name is Ameer Hamza
 ============================
 
-Full Stack Web Developer
+Full Stack Web Developer | JavaScript & PHP Expert
 ------------------------
-
-# Full-Stack Web Developer | JavaScript & PHP Expert
-
-# Full-Stack Web Developer | JavaScript & PHP Expert
 
 Welcome to my GitHub! 👋 I'm a passionate and experienced Full-Stack Web Developer with over 3 years of hands-on experience building dynamic, scalable, and user-friendly web applications. My technical expertise spans across front-end, back-end, and full-stack development, with a strong focus on creating high-performance and maintainable code.
 
