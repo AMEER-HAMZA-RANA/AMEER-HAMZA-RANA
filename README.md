@@ -1,3 +1,6 @@
+![Header](./github-header-image (2).png)
+
+
 Hi 👋 My name is Ameer Hamza
 ============================
 
