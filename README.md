@@ -1,4 +1,4 @@
-![Header](./github-header-image (2).png)
+![Header](./header-1.png)
 
 
 Hi 👋 My name is Ameer Hamza
