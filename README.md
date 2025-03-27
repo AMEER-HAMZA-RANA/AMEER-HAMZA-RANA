@@ -38,7 +38,7 @@ Over the past few years, I've developed a deep understanding of both frontend an
 - Continuously learning new technologies and frameworks to stay on top of industry trends
 
 ## Projects:
-I have contributed to several projects across different domains, including e-commerce websites, business websites, blogs, and custom web applications. You can explore some of my work here on GitHub. I also enjoy contributing to open-source projects and collaborating with other developers to make the web a better place.
+I have contributed to several projects across different domains, including e-commerce websites, business websites, and custom web applications. You can explore some of my work here on GitHub. I also enjoy contributing to open-source projects and collaborating with other developers to make the web a better place.
 
 
 * 🌍  I'm based in Pakistan (also available remotely)
